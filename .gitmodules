@@ -10,3 +10,6 @@
 [submodule "model-exploration/tUbeNet"]
 	path = model-exploration/tUbeNet
 	url = git@github.com:natalie11/tUbeNet.git
+[submodule "model-exploration/vessap"]
+	path = model-exploration/vessap
+	url = https://github.com/vessap/vessap.git
