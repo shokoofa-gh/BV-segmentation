@@ -1,0 +1,12 @@
+[submodule "model-exploration/Probabilistic-Unet-Pytorch"]
+	path = model-exploration/Probabilistic-Unet-Pytorch
+	url = git@github.com:mykim12/Probabilistic-Unet-Pytorch.git
+[submodule "model-exploration/SAM-Med3D"]
+	path = model-exploration/SAM-Med3D
+	url = git@github.com:uni-medical/SAM-Med3D.git
+[submodule "model-exploration/VesselBoost"]
+	path = model-exploration/VesselBoost
+	url = git@github.com:KMarshallX/VesselBoost.git
+[submodule "model-exploration/tUbeNet"]
+	path = model-exploration/tUbeNet
+	url = git@github.com:natalie11/tUbeNet.git
